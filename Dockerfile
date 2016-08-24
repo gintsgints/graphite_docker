@@ -43,7 +43,7 @@ add	./supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 # Nginx
 #
 # graphite
-expose	8000
+expose	8080
 # grafana
 expose  3000
 
